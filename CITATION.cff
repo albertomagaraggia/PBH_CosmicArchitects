@@ -4,6 +4,6 @@ message: "If you use this code, please cite the associated paper."
 authors:
   - family-names: Magaraggia
     given-names: Alberto
-date-released: 2026-04-25
+date-released: 2026-08-28
 version: 1.0.0
-doi: 10.XXXX/zenodo.XXXXXXX
+doi: 10.XXXX
